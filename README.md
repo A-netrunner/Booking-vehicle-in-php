@@ -59,7 +59,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contributors
 - [Jay](https://github.com/A-netrunner)
-- [Contributor Name](https://github.com/contributor_username)
+- [Shravan R](https://github.com/Shravan-R)
+- [Ganesh](https://github.com/ganesh2451)
 
 ## Acknowledgments
 - Thanks to the hackathon organizers and all contributors.
@@ -71,5 +72,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-For any queries or issues, please open an issue in the repository or contact [your email].
+For any queries or issues, please open an issue in the repository or contact [Jay](https://t.me/a_netrunner).
 
